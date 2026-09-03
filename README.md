@@ -11,18 +11,22 @@ I build mobile products end to end — from an empty repo to the App Store, and 
 
 Most developers stop at the code. For a business, the hard part starts at release. I specialize in the full lifecycle: building the architecture, navigating store reviews, setting up CI/CD, and managing the crashes, performance bottlenecks, and SDK migrations that happen once real users get their hands on the app.
 
+Much of my work has been in map-heavy apps — live location, clustering, thousands of markers — which is where React Native tends to break in the most interesting ways.
+
 **What I bring to a project:**
-- **Build:** React Native & Expo architectures, complex data layers (Redux/RTK Query), and polished UI/UX using tools like Framer for map overlays and animations.
-- **Ship:** EAS builds, Firebase Remote Config, TestFlight, App Store Connect, Play Console, and OTA updates. 
-- **Keep Alive:** Sentry/Crashlytics triage, performance optimization on real hardware, and ensuring analytics are flawless before you make business decisions.
+- **Build:** React Native & Expo architecture, complex data layers (Redux/RTK Query), offline and caching strategies, and map-driven interfaces that stay fast on real devices.
+- **Ship:** EAS builds and OTA updates, signing and provisioning, TestFlight, App Store Connect and Play Console setup, and getting apps through review.
+- **Keep Alive:** Sentry/Crashlytics triage, performance work on real hardware, SDK migrations, and analytics you can actually trust before you make business decisions on it.
 
 ---
 
 ### 🛠 Tech Stack
-- **Mobile:** React Native, Expo, EAS, TypeScript, Expo Router / React Navigation, Reanimated
-- **Ship & Operate:** App Store Connect, Play Console, TestFlight, Sentry, Crashlytics, Firebase (Analytics, Remote Config), CI/CD, EAS Updates
-- **Backend & Web:** Node.js, Express, MongoDB, React, Next.js, PostgreSQL
-- **UI & Design:** Framer, Figma integration
+- **Mobile:** React Native, Expo, EAS, TypeScript, Expo Router / React Navigation, Reanimated, Gesture Handler
+- **Maps & Location:** react-native-maps, Google Maps Platform (Directions, Places), marker clustering, geolocation, deep links
+- **Ship & Operate:** App Store Connect, Play Console, TestFlight, signing & provisioning, store review, EAS Update (OTA), CI/CD
+- **Observability & Analytics:** Sentry, Crashlytics, Play Vitals, GA4 / Firebase Analytics, BigQuery, PostHog, AppsFlyer
+- **Backend & Cloud:** Node.js, Express, MongoDB, PostgreSQL, Firebase (Auth, FCM, Remote Config), GCP, Docker
+- **Web:** React, Next.js, Redux / RTK Query
 
 ---
 
@@ -63,5 +67,5 @@ Looking to build an MVP, rescue a struggling mobile project, or need a reliable 
 
 <p align="center">
   <a href="mailto:toshoyeb@gmail.com">Email Me</a> ·
-  <a href="ADD_YOUR_LINKEDIN_URL">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/shoyeb-akhtar/">LinkedIn</a>
 </p>
