@@ -13,6 +13,8 @@ Most developers stop at the code. For a business, the hard part starts at releas
 
 Much of my work has been in map-heavy apps — live location, clustering, thousands of markers — which is where React Native tends to break in the most interesting ways.
 
+Most of my day-to-day work lives in private company repositories on [@shoyeb-range](https://github.com/shoyeb-range) — this account holds my public work.
+
 **What I bring to a project:**
 - **Build:** React Native & Expo architecture, complex data layers (Redux/RTK Query), offline and caching strategies, and map-driven interfaces that stay fast on real devices.
 - **Ship:** EAS builds and OTA updates, signing and provisioning, TestFlight, App Store Connect and Play Console setup, and getting apps through review.
