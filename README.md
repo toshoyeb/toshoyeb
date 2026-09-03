@@ -55,13 +55,6 @@ Bugs found in production and reported upstream:
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=toshoyeb&show_icons=true&hide_border=true&theme=onedark" alt="Shoyeb's GitHub Stats" />
-</p>
-
----
-
 ### 📫 Let's Work Together
 Looking to build an MVP, rescue a struggling mobile project, or need a reliable engineer to handle your app's release cycle? Let's talk.
 
