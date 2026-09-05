@@ -4,6 +4,10 @@
   <em>Available for freelance mobile product development</em>
 </p>
 
+<p align="center">
+  <a href="https://shoyeb.dev"><strong>shoyeb.dev</strong></a>
+</p>
+
 ---
 
 ### 🧠 The Short Version
@@ -13,7 +17,7 @@ Most developers stop at the code. For a business, the hard part starts at releas
 
 Much of my work has been in map-heavy apps — live location, clustering, thousands of markers — which is where React Native tends to break in the most interesting ways.
 
-Most of my day-to-day work lives in private company repositories on [@shoyeb-range](https://github.com/shoyeb-range) — this account holds my public work.
+Most of my day-to-day work lives in private company repositories on [@shoyeb-range](https://github.com/shoyeb-range) — this account holds my public work, including the source for [shoyeb.dev](https://shoyeb.dev) ([repo](https://github.com/toshoyeb/shoyeb.dev)).
 
 **What I bring to a project:**
 - **Build:** React Native & Expo architecture, complex data layers (Redux/RTK Query), offline and caching strategies, and map-driven interfaces that stay fast on real devices.
@@ -61,6 +65,7 @@ Bugs found in production and reported upstream:
 Looking to build an MVP, rescue a struggling mobile project, or need a reliable engineer to handle your app's release cycle? Let's talk.
 
 <p align="center">
-  <a href="mailto:toshoyeb@gmail.com">Email Me</a> ·
+  <a href="https://shoyeb.dev">shoyeb.dev</a> ·
+  <a href="mailto:hello@shoyeb.dev">hello@shoyeb.dev</a> ·
   <a href="https://www.linkedin.com/in/shoyeb-akhtar/">LinkedIn</a>
 </p>
