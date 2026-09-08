@@ -61,7 +61,7 @@ Bugs found in production and reported upstream:
 
 ---
 
-### 📫 Let's Work Together
+### 📫 Let's Work Together!
 Looking to build an MVP, rescue a struggling mobile project, or need a reliable engineer to handle your app's release cycle? Let's talk.
 
 <p align="center">
