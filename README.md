@@ -17,6 +17,8 @@ Most developers stop at the code. For a business, the hard part starts at releas
 
 Much of my work has been in map-heavy apps — live location, clustering, thousands of markers — which is where React Native tends to break in the most interesting ways.
 
+Not all of it is mobile. I also contribute to [Smriti](https://smritipyq.in/uppsc), a Next.js study app for Indian civil-services aspirants — a large MongoDB question corpus, spaced repetition, Razorpay payments, and a public surface built to be found from search.
+
 Most of my day-to-day work lives in private company repositories on [@shoyeb-range](https://github.com/shoyeb-range) — this account holds my public work, including the source for [shoyeb.dev](https://shoyeb.dev) ([repo](https://github.com/toshoyeb/shoyeb.dev)).
 
 **What I bring to a project:**
@@ -32,7 +34,8 @@ Most of my day-to-day work lives in private company repositories on [@shoyeb-ran
 - **Ship & Operate:** App Store Connect, Play Console, TestFlight, signing & provisioning, store review, EAS Update (OTA), CI/CD
 - **Observability & Analytics:** Sentry, Crashlytics, Play Vitals, GA4 / Firebase Analytics, BigQuery, PostHog, AppsFlyer
 - **Backend & Cloud:** Node.js, Express, MongoDB, PostgreSQL, Firebase (Auth, FCM, Remote Config), GCP, Docker
-- **Web:** React, Next.js, Redux / RTK Query
+- **Web:** React, Next.js (App Router), Tailwind CSS, shadcn/ui, Redux / RTK Query, Vercel
+- **Payments & Growth:** Razorpay (checkout, webhooks, reconciliation), technical SEO, structured data
 
 ---
 
@@ -40,6 +43,8 @@ Most of my day-to-day work lives in private company repositories on [@shoyeb-ran
 
 - **RangeNow — EV Charging** – [App Store](https://apps.apple.com/in/app/rangenow-ev-charging/id6759698887) – [Google Play](https://play.google.com/store/apps/details?id=now.range.app) 
   *Consumer EV-charging app to find chargers, plan trips, and book sessions. Built from zero; I own mobile end to end.*
+- **Smriti — UPPSC PYQ study app** – [smritipyq.in](https://smritipyq.in/uppsc) 
+  *7,378 previous-year exam questions turned into micro-lessons: every wrong option is explained, and the ones you miss come back on an FSRS spaced-repetition schedule. A web product I contribute to — Next.js, MongoDB, Razorpay.*
 - **Kuttl** – [@KuttlApp](https://x.com/KuttlApp) 
   *Centralized tracker for purchases, refunds, and subscriptions. Built the React Native app from zero and led its release to the Play Store.*
 
