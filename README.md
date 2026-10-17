@@ -5,7 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://shoyeb.dev"><strong>shoyeb.dev</strong></a>
+  <a href="https://shoyeb.dev"><strong>shoyeb.dev</strong></a> ·
+  <a href="https://shoyeb.dev/resume.pdf"><strong>Resume (PDF)</strong></a>
 </p>
 
 ---
@@ -71,6 +72,7 @@ Looking to build an MVP, rescue a struggling mobile project, or need a reliable 
 
 <p align="center">
   <a href="https://shoyeb.dev">shoyeb.dev</a> ·
+  <a href="https://shoyeb.dev/resume.pdf">Resume</a> ·
   <a href="mailto:hello@shoyeb.dev">hello@shoyeb.dev</a> ·
   <a href="https://www.linkedin.com/in/shoyeb-akhtar/">LinkedIn</a>
 </p>
